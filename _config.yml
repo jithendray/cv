@@ -1,0 +1,15 @@
+# Site settings
+title: Jithendra Yenugula
+tag_text: jithendray
+description: Jithendra is a data & software engineer and also a metalhead.
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://jithendray.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
