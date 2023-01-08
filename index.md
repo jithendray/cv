@@ -33,8 +33,14 @@ I am currently building a habit of reading. I track my reading on [goodreads](ht
 
 ### Feel free to contact me through
 
+- Twitter - [twitter.com/doomedripper](https://twitter.com/doomedripper)
+- LinkedIn - [linkedin.com/jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
+- Email - [jithendrabsy@gmail.com](mailto:jithendrabsy@gmail.com)
+- Github - [github.com/jithendray](https://github.com/jithendray)
+- Discord - doomedripper#7018
+ 
 
-[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=@doomedripper)](https://twitter.com/doomedripper)
+<!--[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=@doomedripper)](https://twitter.com/doomedripper)
 
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=jithendrabsy)](https://www.linkedin.com/in/jithendrabsy/)
@@ -45,7 +51,7 @@ I am currently building a habit of reading. I track my reading on [goodreads](ht
 [![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=jithendrabsy)](mailto:jithendrabsy@gmail.com)
 
 
-![Discord URL](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&label=doomedripper-7018)
+![Discord URL](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&label=doomedripper-7018)-->
 
     
 
