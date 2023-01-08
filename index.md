@@ -24,7 +24,7 @@ Most my day is spent staring at a screen. During the day, I am usually writing c
 At night, I take some time off to work on things I'm passionate about. I write about data and software engineering on [my blog](https://jithendray.github.io/blog/). Sometimes, I create personal POC projects. You can take a look of my projects on [my portfolio](http://jithendray.github.io/portfolio).
 
 
-In my free time, I listen to lots of metal music. I also have a second blog "[Cursed Collection](https://cursedcollection.github.io/)", where I write about metal albums and bands. I use [Lastfm](https://www.last.fm/user/Jithendray) to track my Spotify & Bandcamp listening history.
+In my free time, I listen to lots of metal music. I also have a second blog "[Cursed Collection](https://cursedcollection.github.io/)", where I write about metal albums and bands. I use [Lastfm](https://www.last.fm/user/Jithendray) to track my Spotify & Bandcamp listening history. I also [stats.fm](https://stats.fm/doomedripper) to track my spotify history.
 
  
 I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).
