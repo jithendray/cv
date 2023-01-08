@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/medusa.jpg" width="200"/>
+<img src="assets/medusa-circle.png" width="200"/>
 
 
 Hi, My  name is Jithendra. I am a Data Engineer with industry experiences in developing scalable data pipelines, desigining data warehouses, and time series forecasting. 
