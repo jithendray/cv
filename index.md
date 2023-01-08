@@ -7,13 +7,14 @@ layout: default
 
 Hi, My  name is Jithendra. I am a Data Engineer with industry experiences in developing scalable data pipelines, desigining data warehouses, and time series forecasting. 
 
-I am currently a **Data Engineer** at **NeenOpal Inc.**, where I develop cloud-based data warehousing and ETL solutions for global clients operating in diverse industries.
+I am currently a **Data Engineer** at **NeenOpal Inc.**, where I'm developing cloud-based data warehousing and ETL solutions for global clients operating in diverse industries.
 
+<!--
 Projects I worked on include:
 - Enterprise wide Data Warehousing and ETL solution for a Large Multinational Logistics Company
 - End-to-End Business Intelligence Implementation for an Edtech Company
 - Demand Forecasting and Inventory management for a Tiles Manufacturing Company
-- Marketing and Recovery Officer scoring project for a leading NBFC client
+- Marketing and Recovery Officer scoring project for a leading NBFC client-->
 
 
 <!--Prior to this, I completed my bachelors in Computer Science at Indian Institute of Information Technology, Design and Manufacturing - Jabalpur.-->
