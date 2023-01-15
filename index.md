@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: "Jithendra Yenugula"
+title: ""
 comments: false
 ---
 
