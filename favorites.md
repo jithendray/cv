@@ -12,7 +12,7 @@ Favorite fiction books:
 - "Lord of The Rings trilogy" by JRR Tolkein
 - "The Stand" by Stephen King
 - "Norwegian Wood" by Haruki Murakami
-- "Shiva Trilogy" by Amish Tripathi
+
 
 
 Favorite non-fiction books:
@@ -39,15 +39,20 @@ Favorite Podcasts:
 - "Lex Fridman Podcast" ([link](https://www.youtube.com/c/lexfridman/videos))
 - "You are not so smart" ([link](https://youarenotsosmart.com/podcast/))
 - "Philosophize This!" ([link](https://www.philosophizethis.org/podcasts))
-- "Chai time Data Science" ([link](https://www.youtube.com/c/ChaiTimeDataScience/videos))
-- "Machine Learning Street Talk" ([link](https://www.youtube.com/c/MachineLearningStreetTalk/videos))
+
 
 Favorite Painting:
 
-- "The Two Fridas" by Frida Kahlo
+- "Medusa" by Caravaggio
+
+  <img src="/images/medusa-painting.jpg" width="400" height="410" alt="fallen-angel"/>
 
 
-  <img src="/images/the-two-fridas.jpg" width="400" height="410" alt="the-two-fridas"/>
+- "The Fallen Angel" by Alexandre Cabanel
+
+
+  <img src="/images/fallen-angel.jpg" width="400" height="410" alt="fallen-angel"/>
+
   
 Favorite movie:
 - "Rosemary's Baby" (1968)
