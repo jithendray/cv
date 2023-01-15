@@ -54,8 +54,11 @@ Favorite Painting:
   <img src="/images/fallen-angel.jpg" width="400" height="310" alt="fallen-angel"/>
 
   
-Favorite movie:
+Favorite movies:
 - "Rosemary's Baby" (1968)
+- "Possession" (1981)
+- "Re-Animator" (1985)
+- "The Truman Show" (1998)
 
 Favorite albums: (*non-metal*)
 - "In the Court of the Crimson King" by King Crimson
@@ -64,7 +67,6 @@ Favorite albums: (*non-metal*)
 - "Thriller" by Michael Jackson
 - "Tapestry" by Carole King
 - "The Chronic" by Dre
-- "OK Computer" by Radiohead
 
 Favorite quotation:
 

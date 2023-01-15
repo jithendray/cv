@@ -5,20 +5,18 @@ title: "CV"
 comments: false
 ---
 
-[View the PDF version here](https://drive.google.com/file/d/1cUOqc0omrGN9okzFI0gZYW9V-qcp4AIg/view)
-
 ### **Experience**
 
 #### **Data Engineer, NeenOpal Inc., Jun 2021 - Present**
 **Enterprise wide BI Implementation for a Large Multinational Logistics Company**
 
-+ Led a team of 3 Data engineers to develop End to End Data Warehousing solution, which included
-	- Setup of Data Warehouse on AWS Redshift
-	- Configuring the ETL Pipeline for Migration of data from S3 to RedShift using AWS Glue & Lambda
-	- Trigger Refresh of data in the 50+ PowerBI dashboards developed as part of the project - helping stakeholders to quickly gain insights across various departments
++ Developed End to End Data Warehousing solution
+- Setup of Data Warehouse on AWS Redshift
+- Configured ETL Pipelines for Migration of data from S3 to RedShift using AWS Glue & Lambda
+- Trigger Refresh of data in the 50+ PowerBI dashboards developed as part of the project - helping stakeholders to quickly gain insights across various departments
 + Led multiple requirement-gathering sessions with the client’s business and technical teams across various departments to understand the data better and define important logistic KPIs
 + Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
-+ Worked in an agile model - led daily scrum calls and contributed to the improvement of development processes
++ Led daily scrum calls and contributed to the improvement of development processes
 
 **End-to-End Business Intelligence Implementation (AWS + Tableau) for an Edtech Company**
 
@@ -30,13 +28,13 @@ comments: false
 #### **Data Scientist Intern, NeenOpal Inc., Nov 2020 - May 2021**
 
 **Demand Forecasting and Inventory management for a Tiles Manufacturing Company**
-+ Only Data Scientist for the project - responsible for developing a hybrid forecasting model (Leveraging ML algorithms and statistical models) in order to predict the sales at the SKU-Store level for 400+ stores and 1000+ SKUs of one of the largest Tiles producers.
++ Responsible for developing a hybrid forecasting model (Leveraging ML algorithms and statistical models) in order to predict the sales at the SKU-Store level for 400+ stores and 1000+ SKUs of one of the largest Tiles producers.
 + Responsible for automating the entire pipeline including - automatic forecast generation and dashboard refresh with the latest data
 
 
 **Marketing and Recovery Officer scoring project for a leading NBFC client**
-+ Developed a comprehensive scoring model for Marketing and Recovery Officers by combining various key features affecting the score. Developed SQL scripts to collect important features for the model
-+ Building a Tableau dashboard with scores and other details to streamline the ranking process for officers
++ Developed a comprehensive scoring model for Marketing and Recovery Officers by combining various key features affecting the score.
++ Built a Tableau dashboard with scores and other details to streamline the ranking process for officers
 
 #### **Undergrad Research Assistant, IIIT Allahabad, May 2019 - Jul 2019**
 
