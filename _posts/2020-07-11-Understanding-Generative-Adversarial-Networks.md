@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Understanding Generative Adversarial Networks"
-tags: [deeplearning]
+tags: 
+  - machine-learning
 ---
 
  Generative Adversarial Networks are exactly the same thrilling thing. They create some new data out of nothing, following the rules 
