@@ -36,10 +36,10 @@ Favorite Interviews/talks:
 
 Favorite Podcasts:
 
-- "Lex Fridman Podcast" ([link](https://www.youtube.com/c/lexfridman/videos))
+- "Bangers & Mosh podcast" ([link](https://open.spotify.com/show/5OpwIorpe028MIMU9LGXWp))
+- "Daily Stoic" ([link](https://dailystoic.com/podcast/))
+- "Surveillance Report" ([link](https://www.youtube.com/@SurveillanceReport/videos))
 - "You are not so smart" ([link](https://youarenotsosmart.com/podcast/))
-- "Philosophize This!" ([link](https://www.philosophizethis.org/podcasts))
-
 
 Favorite Painting:
 
