@@ -51,7 +51,7 @@ Favorite Painting:
 - "The Fallen Angel" by Alexandre Cabanel
 
 
-  <img src="/images/fallen-angel.jpg" width="400" height="410" alt="fallen-angel"/>
+  <img src="/images/fallen-angel.jpg" width="400" height="310" alt="fallen-angel"/>
 
   
 Favorite movie:
