@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
-title: "Jithendra's Blog"
+permalink: /archive/
+title: "Archive"
 comments: false
 ---
