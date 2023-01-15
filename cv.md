@@ -10,19 +10,33 @@ comments: false
 ### **Experience**
 
 #### **Data Engineer, NeenOpal Inc., Jun 2021 - Present**
-- Built a data warehousing and ETL solution on AWS for one of the largest multinational Logistics and Transportation company in Sri Lanka.
-- Designed 50+ ETL pipelines fopr jobs, including extracting and transforming data from S3 and loading structured data to Redshift using PySpark, Python and SQL on daily basis.
-- Implemented additional tests using python in pipelines to identify bad data in flat files and send alerts to the respective owners of the data.
-- Supported Ad Hoc requests from client in identying issues in their data maintainance by collaboratively analysing data with various business stake holders.
-- Used various tools including but not limited to AWS Redshift, Lambda, Glue, S3, Step functions, EC2.
+**Enterprise wide BI Implementation for a Large Multinational Logistics Company**
+
++ Led a team of 3 Data engineers to develop End to End Data Warehousing solution, which included
+	- Setup of Data Warehouse on AWS Redshift
+	- Configuring the ETL Pipeline for Migration of data from S3 to RedShift using AWS Glue & Lambda
+	- Trigger Refresh of data in the 50+ PowerBI dashboards developed as part of the project - helping stakeholders to quickly gain insights across various departments
++ Led multiple requirement-gathering sessions with the client’s business and technical teams across various departments to understand the data better and define important logistic KPIs
++ Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
++ Worked in an agile model - led daily scrum calls and contributed to the improvement of development processes
+
+**End-to-End Business Intelligence Implementation (AWS + Tableau) for an Edtech Company**
+
++ Led a team of 3 Data Engineers for the development of ETL jobs for migration of data from Aurora to Amazon Redshift using AWS Glue
++ Reduced the manual effort by 20% through implementing ETL job failure trigger emails using EventBridge, SNS, and Lambda
++ Responsible for continuous QC and Performance Monitoring of the Daily ETL Scripts and timely resolution in case of any errors
 
 
 #### **Data Scientist Intern, NeenOpal Inc., Nov 2020 - May 2021**
 
-Projects I have worked on:
-* **ETL development:** Building a data warehouse on AWS RedShift for one of the largest multinational Logistics and Transportation company in Sri Lanka. Developing automated python-based pipelines and AWS-Glue jobs build robust data pipelines.
-* **Demand Forecasting and Inventory Management:** Leveraged machine learning to predict the sales at store and SKU level(500+ stores and 1000+ SKUs) for one of the largest Tiles producers in Sri Lanka.
-* **Employee Scoring:** Analyzed monthly performance of Marketing / Recovery officers of a leading NBFC in Sri Lanka and built Tableau dashboards to help the stakeholders to quickly gain insights into the performance of their employees.
+**Demand Forecasting and Inventory management for a Tiles Manufacturing Company**
++ Only Data Scientist for the project - responsible for developing a hybrid forecasting model (Leveraging ML algorithms and statistical models) in order to predict the sales at the SKU-Store level for 400+ stores and 1000+ SKUs of one of the largest Tiles producers.
++ Responsible for automating the entire pipeline including - automatic forecast generation and dashboard refresh with the latest data
+
+
+**Marketing and Recovery Officer scoring project for a leading NBFC client**
++ Developed a comprehensive scoring model for Marketing and Recovery Officers by combining various key features affecting the score. Developed SQL scripts to collect important features for the model
++ Building a Tableau dashboard with scores and other details to streamline the ranking process for officers
 
 #### **Undergrad Research Assistant, IIIT Allahabad, May 2019 - Jul 2019**
 

@@ -7,6 +7,10 @@ main:
   #  url: /misc/
   - title: "Blog"
     url: /blog/
+  - title: "CV"
+    url: /cv/
+  - title: "Favorites"
+    url: /favorites/
   #- title: "Archive"
   #  url: /archive/
 #  - title: "TIL"

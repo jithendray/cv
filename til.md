@@ -19,4 +19,4 @@ These are things that don't really require a full blog post. These are things mo
 
 ### aws
 
-* [Redshift: Generate DDL Create Table Statements](https://jithendrabsy.github.io/til/redshift-generate-ddl/)
+* [Redshift: Generate DDL Create Table Statements](https://jithendray.github.io/til/redshift-generate-ddl/)
