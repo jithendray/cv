@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Handling Overfitting with Regularization"
 tags: 
     - machinelearning

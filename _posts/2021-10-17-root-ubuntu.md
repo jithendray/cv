@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Root Access in Ubuntu"
 excerpt_separator: <!-- more -->
 toc: true

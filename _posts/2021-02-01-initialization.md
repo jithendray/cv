@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Weight Initialization"
 excerpt_separator: <!-- more -->
 toc: true

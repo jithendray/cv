@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Understanding Generative Adversarial Networks"
 excerpt_separator: <!-- more -->
 toc: true
