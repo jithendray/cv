@@ -22,13 +22,13 @@ Projects I worked on include:
 
 <!--Prior to this, I completed my bachelors in Computer Science at Indian Institute of Information Technology, Design and Manufacturing - Jabalpur.-->
 
-Most my day is spent staring at a screen. During the day, I am usually writing code and attending meetings. At night, I take some time off to work on things I'm passionate about. I write about data and software engineering on [my blog](https://jithendray.github.io/blog/). Sometimes, I create personal POC projects. You can take a look of my projects on [my portfolio](http://jithendray.github.io/portfolio).
+Most my day is spent staring at a screen. During the day, I am usually writing code and attending meetings. At night, I take some time off to work on things I'm passionate about. I write about data and software engineering on [my blog](https://jithendray.github.io/posts/). Sometimes, I create personal POC projects. You can take a look of my projects on [my portfolio](http://jithendray.github.io/portfolio).
 
 
 In my free time, I listen to lots of metal music. I also have a second blog "[Cursed Collection](https://cursedcollection.github.io/)", where I write about metal albums and bands. I use [Lastfm](https://www.last.fm/user/Jithendray) to track my Spotify & Bandcamp listening history. I also [stats.fm](https://stats.fm/doomedripper) to track my spotify history.
 
  
-I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).
+<!--I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).
 
 
 ### Feel free to contact me through
@@ -38,3 +38,4 @@ I am currently building a habit of reading. I track my reading on [goodreads](ht
 - Email - [jithendrabsy@gmail.com](mailto:jithendrabsy@gmail.com)
 - Github - [github.com/jithendray](https://github.com/jithendray)
 - Discord - doomedripper#7018
+-->
