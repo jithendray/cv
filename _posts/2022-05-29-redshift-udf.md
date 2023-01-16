@@ -11,8 +11,8 @@ Today I learned, I can create functions in SQL and use them over and over for re
 
  <!-- more -->
 
- 1. TOC
-{:toc}
+ <!--1. TOC
+{:toc}-->
 
 
 ### What are User-defined functions?

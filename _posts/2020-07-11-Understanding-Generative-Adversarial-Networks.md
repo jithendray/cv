@@ -38,7 +38,6 @@ The main motto of GAN is to generate some information from scratch. But their po
 So what are Generative Adversarial Networks? What is so magical about them? In this blog post we’ll explore GANs and detailed explanation of how GANs work. But before diving into GANs, we will start by describing what are Generative models.
 
 
-<ul id="toc"></ul>
 
 
 ## What is a Generative model?
