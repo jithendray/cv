@@ -22,9 +22,9 @@ Redshift's control structures are usually divided into two categories:
 
 ## Conditional Control Structures
 A task can be carried out using conditional control structures under specific circumstances. In conditional control structures, IF statements are commonly utilised. These operate similarly to general-purpose programming languages. If a value in a table needs to be updated based on a conditional flow, for instance, IF statements can be utilised in this situation. In Redshift's plpgsql, there are three types of conditional control structures available:
-    - IF - THEN - END IF
-    - IF - THEN - ELSE - END IF
-    - IF - THEN - ELSIF - THEN - ELSE - END IF
+- IF - THEN - END IF
+- IF - THEN - ELSE - END IF
+- IF - THEN - ELSIF - THEN - ELSE - END IF
 
 ### CASE vs IF in SQL
 
