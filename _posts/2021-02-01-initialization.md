@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weight Initialization"
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- more -->
 toc: true
 tags: 
   - notes

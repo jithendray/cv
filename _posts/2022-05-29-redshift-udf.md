@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Redshift: User-Defined Functions"
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- more -->
 toc: true
 tags: 
     - aws
