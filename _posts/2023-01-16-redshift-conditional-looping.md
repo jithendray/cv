@@ -1,7 +1,6 @@
 ---
-title: "Using Looping and Conditional Expressions in Redshift"
-excerpt_separator: <!-- more -->
-toc: true
+layout: post
+title: "title: "Using Loops and Conditional Expressions in Redshift"
 tags: 
     - aws
     - sql
@@ -10,27 +9,28 @@ tags:
 
 When we need to iterate through the data or implement logic conditionally, SQL's looping and conditional expressions come in particularly handy. In this post, I'll explain how to use them in Redshift SQL.
 
-<!-- more -->
+1. TOC
+{:toc}
 
-## Redshift SQL - PL/pgsql
+### Redshift SQL - PL/pgsql
 Redshift implements stored procedures using the PostgreSQL procedural language (PL/pgsql). Control structures in pgsqlpl can be utilised to build vital business logics for flexible data manipulation. Redshift can also use majority of plpgsql statements, but not all of them. For future reference, I'm listing the Redshift supported control structures in this post.
 
-## Control Structures in Redshift
+### Control Structures in Redshift
 Redshift's control structures are usually divided into two categories:
-    - Conditional
-    - Iterative
+- Conditional
+- Iterative
 
-## Conditional Control Structures
+### Conditional Control Structures
 A task can be carried out using conditional control structures under specific circumstances. In conditional control structures, IF statements are commonly utilised. These operate similarly to general-purpose programming languages. If a value in a table needs to be updated based on a conditional flow, for instance, IF statements can be utilised in this situation. In Redshift's plpgsql, there are three types of conditional control structures available:
 - IF - THEN - END IF
 - IF - THEN - ELSE - END IF
 - IF - THEN - ELSIF - THEN - ELSE - END IF
 
-### CASE vs IF in SQL
+#### CASE vs IF in SQL
 
 CASE expressions and IF statements are similar. CASE can be substituted with IF, but not the other way around. While  CASE is an expression that is used to return data values, IF is a statement that is frequently used for logic flow. Although it has several limitations, CASE is essentially like a function with built-in IF logic. CASE is limited in comparison to what an IF statement may accomplish.
 
-### Syntax for IF statements
+#### Syntax for IF statements
 Note: The following syntaxes are taken from the [Redshift documentation](https://docs.aws.amazon.com/redshift/latest/dg/c_PLpgSQL-statements.html#r_PLpgSQL-conditionals-if).
 
 **IF-THEN-END IF**
@@ -66,7 +66,7 @@ IF <boolean-expression> THEN
 END IF;
 ```
 
-### Example
+#### Example
 
 Let's say your teammate inserted a few rows into "open_jobs" table with wrong "profession"s as either 'Data Analyst' or 'Data Scientist' instead of 'Data Engineer'. You have to update the "profession" of those rows to 'Data Engineer'. If no wrong rows are there, then you have to re-insert the rows of 'Data Engineer' profession. If rows are there, raise a notice.
 
@@ -87,7 +87,7 @@ END;
 $$;
 ```
 
-## Iterative Control Structures
+### Iterative Control Structures
 
 The execution flow of plpgsql commands can be managed with the use of iterative control statements. The following iterative control structures are supported by Redshift:
 - LOOP
@@ -100,7 +100,7 @@ LOOP and EXIT are keywords used in plpgsql procedures for starting and ending th
 
 Lets see simple examples using LOOPS in Redshift SQL.
 
-### LOOP - EXIT - WHEN
+#### LOOP - EXIT - WHEN
 
 ```sql
 CREATE OR REPLACE PROCEDURE simple_loop()
@@ -136,7 +136,7 @@ INFO:  WAITING: 9
 INFO:  WAITING: 10
 ```
 
-### WHILE LOOP
+#### WHILE LOOP
 
 ```sql
 WHILE revenue > 0 AND cost > 0 LOOP
@@ -144,7 +144,7 @@ WHILE revenue > 0 AND cost > 0 LOOP
 END LOOP;
 ```
 
-### FOR LOOP
+#### FOR LOOP
 
 ```sql
 CREATE OR REPLACE PROCEDURE records_info_message()
@@ -170,7 +170,7 @@ INFO:  Bahubali 2(year: 2017)
 INFO:  Bahubali(year: 2015)
 ```
 
-## Fibonacci using LOOPs in UDFs
+### Fibonacci using LOOPs in UDFs
 
 I explained about using SQL UDFs with Redshift in my [previous blog](https://jithendray.github.io/redshift-udf/). We may execute sophisticated logics like computing the Fibonacci number for each value in a table column in SQL by using LOOPs in UDFs.
 

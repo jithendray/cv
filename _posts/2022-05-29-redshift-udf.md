@@ -1,19 +1,15 @@
 ---
+layout: post
 title: "Redshift: User-Defined Functions"
-excerpt_separator: <!-- more -->
-toc: true
-tags: 
-    - aws
-    - sql
-    - dataengineering
+tags: [aws]
 ---
 
 Today I learned, I can create functions in SQL and use them over and over for repetitive tasks while building or developing pipelines. I've been working with AWS Redshift for the past few months. Redshift is a very powerful and cost-effective cloud data warehousing solution provided by Amazon. It has its own Redshift SQL dialect which is a variant of PostgreSQL.
 
  <!-- more -->
 
- <!--1. TOC
-{:toc}-->
+ 1. TOC
+{:toc}
 
 
 ### What are User-defined functions?

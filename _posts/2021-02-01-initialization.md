@@ -1,11 +1,7 @@
 ---
+layout: post
 title: "Weight Initialization"
-excerpt_separator: <!-- more -->
-toc: true
-tags: 
-  - notes
-  - deeplearning
-  - machinelearning
+tags: [notes, deeplearning]
 ---
 
 In this article, I am writing some notes about weight initialization. 
