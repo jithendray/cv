@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "title: "Using Loops and Conditional Expressions in Redshift"
+title: "Using Loops and Conditional Expressions in Redshift"
 tags: 
     - aws
     - sql
