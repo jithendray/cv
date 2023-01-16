@@ -4,6 +4,7 @@ excerpt_separator: <!-- more -->
 toc: true
 tags: 
     - aws
+    - sql
     - dataengineering
 ---
 
