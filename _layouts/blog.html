@@ -24,7 +24,6 @@ layout: compress
     <ul>
         {% for post in site.posts %}
         {% for tag in post.tags %}
-    </span>
         <li>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <br>
@@ -32,8 +31,10 @@ layout: compress
                 <time datetime="2022-01-28" pubdate="">
                     {{ post.date | date: "%b %-d, %Y" }}
                 </time>
+            </span>
                 <br>
         </li>
+        <br>
         {% endfor %}
         {% endfor %}
 
