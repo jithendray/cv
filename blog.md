@@ -2,7 +2,7 @@
 layout: blog
 title: Blog
 description: Here be writings
-permalink: /blog
+permalink: /blog/
 ---
 
 I write about software and data engineering on this blog.
