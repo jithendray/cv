@@ -1,7 +1,8 @@
 ---
-layout: default
-title: CV
+layout: page
 permalink: /cv/
+title: "CV"
+comments: false
 ---
 
 ### **Experience**
@@ -26,7 +27,6 @@ permalink: /cv/
 - Responsible for continuous QC and Performance Monitoring of the ETL jobs and timely resolution in case of any errors
 
 
-
 #### **Data Scientist Intern, NeenOpal Inc., Nov 2020 - May 2021**
 
 **Demand Forecasting and Inventory management for a Tiles Manufacturing Company**
@@ -34,13 +34,13 @@ permalink: /cv/
 - Responsible for automating the entire pipeline - automatic forecast generation and dashboard refresh with the latest data
 
 
-
 **Marketing and Recovery Officer scoring project for a leading NBFC client**
 - Built 2 Tableau dashboards with scores and other details to streamline the ranking process for officers
 
 #### **Undergrad Research Assistant, IIIT Allahabad, May 2019 - Jul 2019**
 
-- Performed Literature survey on early detection of Autism in toddlers under guidance of Prof. Anupam Agarwal
+As a research assistant under Prof. Anupam Agrawal's guidance, I performed literature survey for research on early detection of Autism in toddlers. Designed a system which analyses eye gaze patterns and accurately detects whether a toddler has autism.
+
 
 
 ### **Projects**
@@ -48,12 +48,21 @@ See here for complete list of my projects - [Portfolio](https://jithendray.githu
 
 
 
-
 ### Skills
 
-- DATA ENGINEERING: Python, Spark (PySpark, SparkSQL), SQL (Postgres, MySQL), Airflow, Fivetran, ETL, Data Modeling
-- CLOUD: AWS (Redshift, Glue, S3, Lambda, SNS, Cloudwatch, Eventbridge), Azure (Synapse Analytics, Data Factory, Databricks)
-- MISCELLANEOUS: Time series analysis & forecasting, Data Analysis, Docker, Tableau, Metabase, Machine learning
+<ul class="skill-list">
+	<li>Python</li>
+	<li>PySpark</li>
+	<li>SQL</li>
+	<li>AWS - Redshift, Lambda, Glue, S3, EC2</li>
+	<li>Snowflake</li>
+	<li>Apache Airflow</li>
+	<li> NumPy, Pandas, scikit-learn, matplotlib,Excel, Tableau</li>
+	<li>PyTorch</li>
+	<li>Time Series Analysis and Forecasting</li>
+	<li>Scala</li>
+	<li>R</li>
+</ul>
 
 
 ### **Education**

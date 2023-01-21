@@ -2,7 +2,7 @@
 layout: post
 title: "Redshift: Loops and Conditional Expressions"
 date: 2023-01-16
-tags: [aws]
+tags: [aws, dataengineering]
 ---
 
 When we need to iterate through the data or implement logic conditionally, SQL's looping and conditional expressions come in particularly handy. In this post, I'll explain how to use them in Redshift SQL.

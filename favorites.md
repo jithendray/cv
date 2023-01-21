@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 permalink: /favorites/
 title: "Favorites"
 comments: false
 ---
+
 
 
 Favorite fiction books:
