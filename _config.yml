@@ -1,11 +1,10 @@
 ###########
 # site.title
 
-title: Jithendra
-description: Website of Jithendra
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://jithendray.github.io" # the base hostname & protocol for your site
-# host: 0.0.0.0
+title: Jithendra Yenugula
+description: Website of Shashank
+url: "https://jithendray.github.io"
+host: 0.0.0.0
 
 
 #########################
@@ -44,7 +43,7 @@ defaults:
     values:
       layout: tagged
 
-# baseurl: ""
+baseurl: ""
 permalink: /blog/:slug
 timezone: Asia/Kolkata
 future: false
@@ -56,12 +55,3 @@ exclude:
 exclude: [vendor]
 
 blog: /blog
-
-# Add general links to site pages here
-links:
-  Resume: /assets/resume.pdf
-  
-
-# Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
