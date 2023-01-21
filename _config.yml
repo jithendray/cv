@@ -18,6 +18,11 @@ whitelist:
 
 markdown: kramdown
 
+highlighter: rouge
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 compress_html:
   clippings: all
   comments: [""]
