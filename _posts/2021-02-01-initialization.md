@@ -2,7 +2,7 @@
 layout: post
 title: "Weight Initialization"
 date: 2021-02-01
-tags: [notes, deeplearning]
+tags: [deeplearning]
 ---
 
 In this article, I am writing some notes about weight initialization. 
