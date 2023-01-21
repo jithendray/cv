@@ -21,6 +21,6 @@ I listen to a lot of metal music in my spare time. I also write about metal band
 
 - Twitter - [twitter.com/doomedripper](https://twitter.com/doomedripper)
 - LinkedIn - [linkedin.com/jithendray](https://www.linkedin.com/in/jithendray/)
-- Email - [jithendrabsy@gmail.com](mailto:jithendrabsy@gmail.com)
+- Email - [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
 - Github - [github.com/jithendray](https://github.com/jithendray)
 - Discord - doomedripper#7018
