@@ -5,4 +5,4 @@ description: Jithendra's Blog
 permalink: /blog/
 ---
 
-I write about software and data engineering on this blog.
+I explain software and data engineering concepts on this blog.
