@@ -68,7 +68,7 @@ END IF;
 
 Let's say your teammate inserted a few rows into "open_jobs" table with wrong "profession"s as either 'Data Analyst' or 'Data Scientist' instead of 'Data Engineer'. You have to update the "profession" of those rows to 'Data Engineer'. If no wrong rows are there, then you have to re-insert the rows of 'Data Engineer' profession. If rows are there, raise a notice.
 
-```sql
+{% highlight sql %}
 CREATE OR REPLACE PROCEDURE data_cleaning()
 LANGUAGE plpgsql
 AS $$
@@ -83,7 +83,7 @@ BEGIN
     RAISE INFO 'The Data Engineer open job rows were correctly inserted into the table'
 END;
 $$;
-```
+{% endhighlight %}
 
 ### Iterative Control Structures
 
