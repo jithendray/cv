@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /blog/
-title: "Blog"
+permalink: /archives/
+title: "Archive"
 comments: false
 ---
