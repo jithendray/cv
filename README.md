@@ -1,1 +1,1 @@
-theme <whiteglass-jekyll>
+theme "whiteglass-jekyll"
