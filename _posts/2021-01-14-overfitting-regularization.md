@@ -2,7 +2,8 @@
 layout: post
 title: "Handling Overfitting with Regularization"
 date: 2021-01-14
-tags: [machinelearning]
+tags: 
+	- machinelearning
 external-url: https://dataaspirant.com/handle-overfitting-with-regularization/
 ---
 

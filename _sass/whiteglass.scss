@@ -1,5 +1,5 @@
 // Define defaults for each variable.
-$base-font-family: Verdana, sans-serif !default;
+$base-font-family: Bitter, "Apple SD Gothic Neo", "Noto Sans", "Source Han Sans", "Noto Sans CJK JP", "Source Han Sans JP", "Noto Sans CJK KR", "Source Han Sans KR", NanumBarunGothic, AppleGothic, "Malgun Gothic", Dotum, sans-serif !default;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -17,18 +17,18 @@ $grey-color-light: lighten($grey-color, 45%) !default;
 $grey-color-dark:  darken($grey-color, 20%) !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    800px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        1000px !default;
+$on-laptop:        800px !default;
 
 
 
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
+//     padding-right: calc($spacing-unit / 2);
+//     padding-left: calc($spacing-unit / 2);
 //   }
 // }
 @mixin media-query($device) {

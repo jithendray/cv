@@ -2,7 +2,8 @@
 layout: post
 title: "Upgrading Ubuntu to 20.04 LTS"
 date: 2020-05-01
-tags: [linux]
+tags: 
+    - linux
 ---
 
 
