@@ -11,8 +11,8 @@ When we need to iterate through the data or implement logic conditionally, SQL's
 
 <!-- more -->
 
-1. TOC
-{:toc}
+<!-- 1. TOC
+{:toc} -->
 
 ### Redshift SQL - PL/pgsql
 Redshift implements stored procedures using the PostgreSQL procedural language (PL/pgsql). Control structures in pgsqlpl can be utilised to build vital business logics for flexible data manipulation. Redshift can also use majority of plpgsql statements, but not all of them. For future reference, I'm listing the Redshift supported control structures in this post.
