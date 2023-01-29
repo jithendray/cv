@@ -5,18 +5,24 @@ title: "About"
 comments: false
 ---
 
-I'm currently working as a Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/), where I am developing a data warehousing & business intelligence solution for one of the largest multinational logistics and transportation company in Sri Lanka.
+Hi, My  name is Jithendra. I am currently working as a **Data Engineer** at **NeenOpal Inc.**, where I create cloud-based data warehousing and ETL solutions for international clients operating in a variety of sectors.
+
+***
+
+I spend the most of my day looking at screen. I typically spend the day writing code and attending meetings. I take some time out at night to work on the topics I'm passionate about. On [my blog](https://jithendray.github.io/blog/), I discuss data and software engineering. I occasionally develop POC projects for myself. You can view my projects on [my portfolio](http://jithendray.github.io/portfolio).
 
 
-I joined NeenOpal after graduating with a Bachelors in Computer Science from [IIITDMJ](https://www.iiitdmj.ac.in/) in India. During my bachelors, I did a few intenships, inclusing a six month stint at [NeenOpal Inc.](https://www.neenopal.com/) as a Data Scientist Intern after which I have received full-time offer. During my internship, I built a forecasting model to predict store and SKU level(500+ stores and 1000+ SKUs) sales and inventory for one of the largest Tiles producers in Sri Lanka. 
+I listen to a lot of metal music in my spare time. I also write about metal bands and albums on my second blog, [Cursed Collection](https://cursedcollection.github.io/). I keep track of my Spotify and Bandcamp listening history using [Lastfm](https://www.last.fm/user/Jithendray). To track my Spotify history, I also use [stats.fm](https://stats.fm/doomedripper).
 
-During my bachelors, I have also worked as research assistant on a project where we designed a <a href="https://github.com/tirumalnaidu/opencl-hls-cnn-accelerator" target="_blank">CNN accelerator</a> for Darknet Reference Model on Intel Cyclone V SoC FPGA.
+ 
+<!--I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).-->
 
+***
 
-In my spare time I enjoy working on side projects and reading. On this blog I write about projects I'm working on as well as general topics I'm interested in. I usually write code in Python, PySpark and SQL, but I've used different languages like java script, R and Java. I am interested in designing machine learning and data systems, data engineering and devops.  
+**I love meeting new people, We can chat about stuff. Feel free to contact me through:**
 
-
-I always enjoy a good conversation, so feel free to drop an email to `jithendray[at]gmail[dot]com` or DM me on [twitter](https://twitter.com/doomedripper){:target="_blank"}. I’m also on [Linkedin](https://www.linkedin.com/in/jithendrabsy/){:target="_blank"} if you are into that sort of thing.
-
-
-You can also look at a more extensive [resume](https://jithendray.github.io/cv/) if you're interested.
+- Twitter - [twitter.com/doomedripper](https://twitter.com/doomedripper)
+- LinkedIn - [linkedin.com/jithendray](https://www.linkedin.com/in/jithendray/)
+- Email - [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
+- Github - [github.com/jithendray](https://github.com/jithendray)
+- Discord - doomedripper#7018
