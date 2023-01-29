@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Jithendra's Blog"
-description:	       'data& software engineering'
+description:	       'data & software engineering'
 author:              'Jithendra Yenugula'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
