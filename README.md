@@ -1,1 +1,1 @@
-theme "whiteglass-jekyll"
+jithendray.github.io
