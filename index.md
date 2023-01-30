@@ -1,0 +1,1 @@
+Hello and welcome to my blog. I write about topics in software and data engineering here. You can read more about me [here](). I love meeting new people. Feel free to contact me through twitter or mail me at `jithendra.yenugula @ gmail.com`.
