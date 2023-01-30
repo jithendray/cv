@@ -29,6 +29,10 @@ contact_links:
   - name: Facebook
     url: https://facebook.com/BenBalter
     icon: facebook
+    
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 # Front matter defaults
 defaults:
