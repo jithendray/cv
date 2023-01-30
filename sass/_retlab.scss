@@ -1,5 +1,4 @@
-$header-path: "";
-// /assets/img/header.jpg
+$header-path: "/assets/img/header.jpg";
 $blue: #337ab7;
 $enable-shadows: true;
 $enable-gradients: true;
@@ -15,9 +14,9 @@ abbr[data-bs-original-title] {
 @media (prefers-color-scheme: dark) {
     @import 'base16.light';
     
-    .highlight {
-        background-color: var(--bs-body-bg)
-    }
+    // .highlight {
+    //     background-color: var(--bs-body-bg)
+    // }
 }
 
 @media (prefers-color-scheme: light) {
