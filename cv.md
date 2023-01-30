@@ -43,11 +43,11 @@ As a research assistant under Prof. Anupam Agrawal's guidance, I performed liter
 
 
 ### **Projects**
-See here for complete list of my projects - [Portfolio](https://jithendray.github.io/portfolio/){:target="_blank"}
+See here for complete list of my projects - [Portfolio](https://github.com/jithendray/portfolio){:target="_blank"}
 
 
 
-### Skills
+### **Skills**
 
 <ul class="skill-list">
 	<li>Python</li>
