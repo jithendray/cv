@@ -23,15 +23,15 @@ tags:
 The main motto of GAN is to generate some information from scratch. But their potential is very huge. Just to give you the idea of their potential, I am mentioning some of the coolest projects created with GANs that you should definitely check out:
 
 <a href="https://arxiv.org/pdf/1703.10593.pdf">
-  <img src="https://camo.githubusercontent.com/2296236e17ff15eb5a077fdb62df498b9d000a19/68747470733a2f2f6a756e79616e7a2e6769746875622e696f2f4379636c6547414e2f696d616765732f7061696e74696e673270686f746f2e6a7067">
+  <img src="https://camo.githubusercontent.com/2296236e17ff15eb5a077fdb62df498b9d000a19/68747470733a2f2f6a756e79616e7a2e6769746875622e696f2f4379636c6547414e2f696d616765732f7061696e74696e673270686f746f2e6a7067" width = "auto" width = "100%">
 </a>
 
 <a href="https://github.com/junyanz/CycleGAN">
-  <img src="https://cdn-images-1.medium.com/max/800/1*dWd0lVTbnu80UZM641gCbw.gif">
+  <img src="https://cdn-images-1.medium.com/max/800/1*dWd0lVTbnu80UZM641gCbw.gif" width = "auto" width = "100%">
 </a>
 
 <a href="https://arxiv.org/pdf/1708.05509.pdf">
-  <img src="https://cdn-images-1.medium.com/max/800/1*3LAQZe4j1Bz-lk9PyQUlnw.png">
+  <img src="https://cdn-images-1.medium.com/max/800/1*3LAQZe4j1Bz-lk9PyQUlnw.png" width = "auto" width = "100%">
 </a>
 
 So what are Generative Adversarial Networks? What is so magical about them? In this blog post we’ll explore GANs and detailed explanation of how GANs work. But before diving into GANs, we will start by describing what are Generative models.
@@ -47,7 +47,7 @@ To understand what a generative model is, contrasting it with a discriminative m
 ## Types of Generative models:
 
 <a href="https://arxiv.org/pdf/1701.00160.pdf">
-  <img src="https://cdn-images-1.medium.com/max/800/1*H-WBtWA7QBGKjek3bRQKDQ.png">
+  <img src="https://cdn-images-1.medium.com/max/800/1*H-WBtWA7QBGKjek3bRQKDQ.png" width = "auto" width = "100%">
 </a>
 
 Generative models are of two types — explicit density models and implicit density models. The main difference between them is that explicit models use an explicit density function whereas the implicit models use a stochastic procedure that can directly generate data.
@@ -72,7 +72,7 @@ Ian Goodfellow and his colleagues came up with a brilliant idea in the 2014 pape
 
 ## The GAN architecture:
 
-<img src="https://miro.medium.com/max/700/0*0pDWOCkB_2i97G4-.png">
+<img src="https://miro.medium.com/max/700/0*0pDWOCkB_2i97G4-.png" width = "auto" width = "100%">
 
 A generative neural network is composed of two models: the **Generator** which generates data from some random uniform distribution and the **Discriminator** which identifies the fake data from the real data . The output of generator(fake data) is connected to the discriminator input.
 

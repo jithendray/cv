@@ -6,7 +6,7 @@ released. In this post, I'm going to share the process I used to upgrade my Ubun
 ---
 
 
-<center> <img src = "https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0921cb27d5604b464218a64ae88a3f43c7b7371a_2_690x345.png"> </center>
+<center> <img src = "https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0921cb27d5604b464218a64ae88a3f43c7b7371a_2_690x345.png" width = "auto" width = "100%"> </center>
 
 
 {% include callout.html content="Note: This is only when you are already running some ubuntu version and want to upgrade it to the new version. This is not the process for fresh installation of Ubuntu" %}
@@ -24,7 +24,7 @@ Another Note: Backup of important data is always required while performing a maj
 This can be done using Ubuntu's built-in do release upgrade tool which is also an easy way to upgrade. But I upgraded manually by updating the sources list with 
 the guidance of [Nerd on the street](https://www.youtube.com/watch?v=3nD56JYfF_o&t=1131s). The reason for upgrading manually is simply to
 enjoy the essence of linux. 
-<center> <img src = "https://i.redd.it/orcgyjw150c21.jpg"> </center>
+<center> <img src = "https://i.redd.it/orcgyjw150c21.jpg" width = "auto" width = "100%"> </center>
 
 Alright, here are the steps I followed to upgrade - 
 
