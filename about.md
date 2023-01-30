@@ -3,8 +3,24 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quam et interdum dignissim. Nulla elementum pulvinar facilisis. Phasellus eget ultricies orci. Aenean ultrices mollis lorem, imperdiet imperdiet nisi. In at nibh elit. Nullam pulvinar tincidunt nisl, et tempus justo maximus sit amet. Integer ac molestie ante. Vestibulum nec lorem efficitur, laoreet tortor id, vestibulum neque. Sed in semper turpis. Maecenas mattis tempor massa. In volutpat ligula ligula, vitae semper nisi maximus a. Cras sit amet efficitur justo. Vestibulum pulvinar feugiat enim sed efficitur.
+Hi, My  name is Jithendra. I am currently working as a **Data Engineer** at **NeenOpal Inc.**, where I create cloud-based data warehousing and ETL solutions for international clients operating in a variety of sectors.
 
-Pellentesque pretium vestibulum tincidunt. Phasellus molestie sem sit amet hendrerit dapibus. Donec bibendum justo orci, non hendrerit erat vestibulum vitae. Donec sed orci congue, mattis lectus vitae, dignissim quam. Mauris ultricies ante a quam pharetra lacinia. Praesent ut placerat mauris. Aenean vel nunc urna. Proin ut ante eget ante viverra rutrum eu vel dui. Nam sem nisi, euismod id fringilla condimentum, tincidunt vitae metus. Donec a consequat diam. Maecenas ultrices, leo sed fringilla facilisis, elit ligula hendrerit nisl, vitae tempus ex justo sed velit. Integer fringilla lectus quis consequat egestas. Cras dignissim, est in euismod ullamcorper, nunc felis viverra ligula, sit amet blandit arcu risus ac eros. Nullam gravida est vitae dui aliquam, eget dignissim massa mollis. Phasellus vel posuere mi. Nam et auctor dolor.
+***
 
-In nec leo porta odio laoreet fermentum. Integer sem elit, mollis in justo nec, consectetur elementum magna. Nunc sollicitudin tincidunt luctus. In volutpat ante varius pharetra aliquam. Sed vitae diam id elit sagittis lobortis. Fusce tincidunt at metus ut blandit. Aenean rhoncus malesuada justo, sed interdum tortor gravida at. Suspendisse sem libero, egestas quis erat nec, suscipit pharetra arcu. Integer blandit fringilla dui. Sed tempus, erat quis consectetur pretium, massa libero tincidunt mi, nec finibus massa ipsum eget felis. Pellentesque malesuada tortor non lacus lobortis sollicitudin. Ut eget metus vel justo gravida scelerisque et ac metus.
+I spend the most of my day looking at screen. I typically spend the day writing code and attending meetings. I take some time out at night to work on the topics I'm passionate about. On [my blog](https://jithendray.github.io/blog/), I discuss data and software engineering. I occasionally develop POC projects for myself. You can view my projects on [my portfolio](http://jithendray.github.io/portfolio).
+
+
+I listen to a lot of metal music in my spare time. I also write about metal bands and albums on my second blog, [Cursed Collection](https://cursedcollection.github.io/). I keep track of my Spotify and Bandcamp listening history using [Lastfm](https://www.last.fm/user/Jithendray). To track my Spotify history, I also use [stats.fm](https://stats.fm/doomedripper).
+
+ 
+<!--I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).-->
+
+***
+
+**I love meeting new people. Feel free to contact me through:**
+
+- Twitter - [twitter.com/doomedripper](https://twitter.com/doomedripper)
+- LinkedIn - [linkedin.com/jithendray](https://www.linkedin.com/in/jithendray/)
+- Email - [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
+- Github - [github.com/jithendray](https://github.com/jithendray)
+- Discord - doomedripper#7018
