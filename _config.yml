@@ -8,6 +8,8 @@ branch: main
 nav_pages:
   - index.html
   - about.md
+  - cv.md
+  - favorites.md
 
 footer_pages:
   - fine-print.md
