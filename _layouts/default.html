@@ -32,6 +32,17 @@
     {% if site.cloudflare.id %}
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{ site.cloudflare.id }}"}'></script>
     {% endif %}
+    
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$','$'], ['\\(','\\)']],
+          processEscapes: true
+        }
+      });
+      </script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
   </body>
 </html>
 <!-- Proudly Powered by GitHub Pages | Generated {{ site.time }} | Revision {{ site.github.build_revision }} -->

@@ -86,15 +86,18 @@ We define a neural network __G(z, θg)__ that maps random noise variables _z_ to
 
 The _discriminator_ is simply a classifier. We can use any architecture for the discriminator that is appropriate to the type of data we are using. The discriminator is trained in such a way that it classifies the input data as either real or fake. So the parameters (θd) of the discriminator are updated in order to minimize the probability that any fake data sample G(z) is classified as a real one and also to maximize the probability any real data sample x is classified as belonging to the real dataset. In order words, the loss function of __discriminator minimizes D(G(z)) and maximizes D(x). Minimizing log(D(G(z))) is same as maximizing log(1-D(G(z)))__. So the objective for the discriminator becomes:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/disobj.png)
+<center> <img src = "/images/posts/2020-7-11/disobj.png" width = "auto" width = "100%"> </center>
+
 
 The _generator_ learns to make the discriminator classify the data generated as real through feedback from the discriminator. The parameters (θg) of the generator are updated in order to maximize the probability that any fake data sample is classified as a real one. So the loss function of generator __maximizes D(G(z))__.
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/genobj.png)
+<center> <img src = "/images/posts/2020-7-11/genobj.png" width = "auto" width = "100%"> </center>
+
 
 As Ian Goodfellow said, it is essentially two-player minimax game played by generator(G) and discriminator(D). The value function V(G, D) is given by:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/minmax.png)
+<center> <img src = "/images/posts/2020-7-11/minmax.png" width = "auto" width = "100%"> </center>
+
 
 where —
 
@@ -112,7 +115,9 @@ In this way, we train both the networks alternatively and the networks will **co
 
 I am adding a screenshot from the paper which explains the algorithm on how to train a GAN using stochastic gradient descent.
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/algo.png "https://arxiv.org/pdf/1406.2661.pdf")
+<center> <img src = "/images/posts/2020-7-11/algo.png" width = "auto" width = "100%"> </center>
+
+
 
 The training steps for a GAN can be described like this:
 * From a random distribution we take some noise and send it to the generator G which produces some generated fake data.
@@ -152,7 +157,8 @@ batch_size = 64
 trainLoader = torch.utils.data.DataLoader(trainData, shuffle=True, batch_size=batch_size
 ```
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/orisam.png)
+<center> <img src = "/images/posts/2020-7-11/orisam.png" width = "auto" width = "100%"> </center>
+
 
 ## Discriminator
 
@@ -209,15 +215,18 @@ In the above section, we’ve already seen the steps that must be followed to tr
 
 ### Discriminator loss function:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/dloss.png)
+<center> <img src = "/images/posts/2020-7-11/dloss.png" width = "auto" width = "100%"> </center>
+
 
 ### Generator loss function:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/gloss.png)
+<center> <img src = "/images/posts/2020-7-11/gloss.png" width = "auto" width = "100%"> </center>
+
 
 We will be using Binary Cross Entropy Loss or log loss because it resembles both the generator and the discriminator losses.
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/bce.png)
+<center> <img src = "/images/posts/2020-7-11/bce.png" width = "auto" width = "100%"> </center>
+
 
 For training *discriminator*, if we replace ŷi with D(x) and yi = 1 we will get the real image loss and if we replace ŷi with D(G(z)) and yi = 0 we will get fake image loss. We will add this together to get the total discriminator loss.
 
@@ -290,15 +299,18 @@ We have successfully implemented a GAN. Now, let’s look at the results -
 
 Before training:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/init.png)
+<center> <img src = "/images/posts/2020-7-11/init.png" width = "auto" width = "100%"> </center>
+
 
 During training at 10th epoch:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/mid.png)
+<center> <img src = "/images/posts/2020-7-11/mid.png" width = "auto" width = "100%"> </center>
+
 
 Finally:
 
-![]({{ site.baseurl }}/images/posts/2020-7-11/fin.png)
+<center> <img src = "/images/posts/2020-7-11/fin.png" width = "auto" width = "100%"> </center>
+
 
 You can check out the complete implementation and run it online — [kaggle notebook](https://www.kaggle.com/saiyan6174/implementing-a-gan)
 

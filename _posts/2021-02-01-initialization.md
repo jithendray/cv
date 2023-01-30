@@ -58,7 +58,8 @@ But this normal random initialization of weights does not work well for training
   - This variance is adapted to the activation function used
   - derived without explicitly considering the type of the distribution
   
-    ![]({{ site.baseurl }}/images/posts/2021-02-01/int.png)
+    <center> <img src = "/images/posts/2021-02-01/int.png" width = "auto" width = "100%"> </center>
+
    - Red → He and Blue → Xavier
    
 **Uniform**: [$\pm \sqrt {\frac {6} {f_{in}} }$]
