@@ -1,8 +1,8 @@
 ---
 title: "Upgrading Ubuntu to 20.04 LTS"
-description: I am very excited about the new version of Ubuntu. The beta version was released a month ago. But since it was fairly stable, 
+description: "I am very excited about the new version of Ubuntu. The beta version was released a month ago. But since it was fairly stable, 
 I didn't installed it. I killed my excitement and waited for the LTS version. And finally, on April 23rd Ubuntu 20.04 LTS was
-released. In this post, I'm going to share the process I used to upgrade my Ubuntu from 19.10 to 20.04.
+released. In this post, I'm going to share the process I used to upgrade my Ubuntu from 19.10 to 20.04."
 ---
 
 
