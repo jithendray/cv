@@ -43,7 +43,7 @@ But this normal random initialization of weights does not work well for training
 - considers number of input and output units while initializing weights
 - weights stay within a reasonable range by making them inversely proportional to the square root of the number of units in the previous layer
 
-**Uniform**: bounded uniformly between ~ [$\pm \sqrt { \frac {6} {f_{in} + f_{out}}}$]
+**Uniform**: bounded uniformly between ~ [$\pm \sqrt { \frac {6} {f\_{in} + f\_{out}}}$]
 
 **Normal**: multiply normal distribution by $\sqrt { \frac {2} {f_{in} + f_{out}}}$
 
