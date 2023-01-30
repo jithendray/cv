@@ -1,0 +1,69 @@
+title: Jithendra Yenugula
+description: Data & software engineer
+
+lang: en-US
+branch: main
+
+# Pages to include in header navigation
+nav_pages:
+  - index.html
+  - about.md
+
+footer_pages:
+  - fine-print.md
+
+# Disqus login information, for comments
+disqus:
+  shortname: 
+
+# Google Analytics tracking id
+ga_username: 
+
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/doomedripper
+    icon: twitter
+  - name: Facebook
+    url: https://facebook.com/BenBalter
+    icon: facebook
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+exclude:
+  - vendor/bundle/
+  - node_modules/
+  - js/
+  - sass/
+  - script/
+  - prettier.config.js
+  - "*.gem"
+  - "*.gemspec"
+  - "*.json"
+  - "*.ts"
+
+theme: null
+repository: benbalter/retladb
