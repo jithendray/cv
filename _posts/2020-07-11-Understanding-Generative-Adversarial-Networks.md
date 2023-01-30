@@ -18,7 +18,7 @@ tags:
 
 
  
-  <img src="https://cdn-images-1.medium.com/max/800/0*92IUCObT8N1VmX8H.jpeg">
+  <img src="https://cdn-images-1.medium.com/max/800/0*92IUCObT8N1VmX8H.jpeg" width = "auto" width = "100%">
 
 The main motto of GAN is to generate some information from scratch. But their potential is very huge. Just to give you the idea of their potential, I am mentioning some of the coolest projects created with GANs that you should definitely check out:
 
