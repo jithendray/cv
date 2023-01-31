@@ -1,5 +1,5 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Jithendra's Blog"
+title:            "Jithendra Yenugula"
 description:      "Software & Data Engineer"
 url:              https://jithendray.github.io # Site url, without a slash at the end.
 signoff:          "jithendray" # Your name
@@ -8,12 +8,12 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
-    url:          /
+  - name:         Blog
+    url:          /blog
     external:     false
-  - name:         About me
-    url:          /about
-    external:     false
+  # - name:         About me
+  #   url:          /about
+  #   external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
