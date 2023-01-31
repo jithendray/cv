@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /cv
-title: ""
+title: "Jithendra's CV"
 ---
-
-#### Jithendra's CV
 
 - Location: Bangalore, India
 - Email: [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
@@ -12,9 +10,9 @@ title: ""
 
 #### **Skills**
 
-- **Data Engineering** | Python, Spark (PySpark, SparkSQL), SQL (Postgres, MySQL), Airflow, Fivetran, Scala, Data Modeling
-- **Cloud** | AWS (2 years of experiece using various services like Redshift, Glue, Stepfunctions, Lambda, Devops tools etc.), Azure (Microsoft certified Azure Data Engineer)
-- Misc. | Time series analysis & forecasting, Data Analysis, Docker, Tableau, Metabase, Machine learning
+- **Data Engineering**: Python, Spark (PySpark, SparkSQL), SQL (Postgres, MySQL), Airflow, Fivetran, Scala, Data Modeling
+- **Cloud**: AWS (2 years of experiece using various services like Redshift, Glue, Stepfunctions, Lambda, Devops tools etc.), Azure (Microsoft certified Azure Data Engineer)
+- Misc.: Time series analysis & forecasting, Data Analysis, Docker, Tableau, Metabase, Machine learning
 
 #### **Experience**
 
