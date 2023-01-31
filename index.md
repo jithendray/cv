@@ -11,7 +11,7 @@ See my [CV](https://jithendray.github.io/cv) to get more info of me.
 
 
 
-I spend the most of my time looking at screen. I typically spend the day writing code and attending meetings. I take some time out at night to learn stuff I'm passionate about. I like to experiment with the latest technologies and as part of this blog post, I document my learnings in software and data engineering as I go.
+I spend the most of my time looking at screen. I take some time out at night to explore new technologies that I'm passionate about and as part of this blog post, I document my learnings in software and data engineering as I go.
 
 
 I spend a lot of my free time listening to metal music. I also have a second blog, [Cursed Collection](https://cursedcollection.github.io/){:target="_blank"}, where I write about metal bands and albums. I keep track of my Spotify and Bandcamp listening history using [Lastfm](https://www.last.fm/user/Jithendray){:target="_blank"}. To track my Spotify history, I also use [stats.fm](https://stats.fm/doomedripper){:target="_blank"}.
