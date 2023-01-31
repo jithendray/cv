@@ -2,27 +2,31 @@
 title: About me
 ---
 
-Hi, I work as a data engineer at [NeenOpal Inc.](https://www.neenopal.com/), where I develop cloud-based data warehousing and ETL solutions for multinational clients across numerous industries.
+Hey, My  name is Jithendra. I am currently working as a **Data Engineer** at **NeenOpal Inc.**, where we create cloud-based data warehousing and business intelligence solutions for international clients operating in a variety of sectors.
+
+I completed my Bachelors degree in Computer Science and Engineering from [IIIT Jabalpur](http://cse.iiitdmj.ac.in/) where I was co-coordinator for the Photography club and was responsible for event covering for various cultural and technical fests.
 
 
-Prior to this, I completed my bachelors in Computer Science and Engineering at the Indian Institute of Information Technology, Design and Manufacturing.
+See my [CV](https://jithendray.github.io/cv) to get more info of me.
 
 
-In my free time, I write about metal music on my second site, "[Cursed Collection](https://cursedcollection.github.io)". 
+
+I spend the most of my time looking at screen. I typically spend the day writing code and attending meetings. I take some time out at night to learn stuff I'm passionate about. I like to experiment with the latest technologies and as part of this blog post, I document my learnings in software and data engineering as I go.
+
+
+I spend a lot of my free time listening to metal music. I also have a second blog, [Cursed Collection](https://cursedcollection.github.io/){:target="_blank"}, where I write about metal bands and albums. I keep track of my Spotify and Bandcamp listening history using [Lastfm](https://www.last.fm/user/Jithendray){:target="_blank"}. To track my Spotify history, I also use [stats.fm](https://stats.fm/doomedripper){:target="_blank"}.
+
  
+<!--I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).-->
 
-### Find me on
+***
 
-- Email - [jithendrabsy@gmail.com](mailto:jithendrabsy@gmail.com)
-- Github - [github.com/jithendray](https://github.com/jithendray)
-- LinkedIn - [linkedin.com/jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
+
+
+**I love meeting new people. Feel free to contact me through:**
+
+- Email - [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
 - Twitter - [twitter.com/doomedripper](https://twitter.com/doomedripper)
-- Mastodon - [mastodon.social/@doomedripper](https://mastodon.social/@doomedripper)
+- LinkedIn - [linkedin.com/jithendray](https://www.linkedin.com/in/jithendray/)
+- Github - [github.com/jithendray](https://github.com/jithendray)
 - Discord - doomedripper#7018
-- Goodreads - [goodreads.com/jithendra](https://www.goodreads.com/user/show/94896307-jithendra-yenugula)
-
-
-
-I'm also on Lastfm ([@Jithendray](https://www.last.fm/user/Jithendray)) which tracks my Spotify listening history:
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Jithendray)
