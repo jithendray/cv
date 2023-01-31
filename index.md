@@ -1,1 +1,0 @@
-Hello and welcome to my blog. I write about topics in software and data engineering here. You can read [more about me here](https://jithendray.github.io/about.html).
