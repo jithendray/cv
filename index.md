@@ -11,7 +11,7 @@ layout: default
 🎓 I completed my Bachelors degree in Computer Science from [IIIT Jabalpur](http://cse.iiitdmj.ac.in/).
 
 
-✍️ I document my learnings in software and data engineering as I go on my [blog](https://jithendray.github.io/blog.html)
+✍️ I document my learnings in software and data engineering as I go on my [blog](https://jithendray.github.io/blog.html).
 
 
 📋 See my [CV](https://jithendray.github.io/cv) to get more info of me.
