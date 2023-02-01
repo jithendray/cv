@@ -17,19 +17,16 @@ layout: default
 📋 See my [CV](https://jithendray.github.io/cv) to get more info of me.
 
 
-<br>
 
 ***
-<br>
+
 
 I spend a lot of my free time listening to metal music. I also have a second blog, [Cursed Collection](https://cursedcollection.github.io/){:target="_blank"}, where I write about metal bands and albums. I keep track of my Spotify and Bandcamp listening history using [Lastfm](https://www.last.fm/user/Jithendray){:target="_blank"}. I also use [stats.fm](https://stats.fm/doomedripper){:target="_blank"}  to specifically track my Spotify listening trends.
 
  
 <!--I am currently building a habit of reading. I track my reading on [goodreads](https://www.goodreads.com/user/show/94896307-jithendra-yenugula).-->
-<br>
 
 ***
-<br>
 
 **I love meeting new people. Feel free to contact me through:**
 
