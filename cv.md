@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv
-title: "Jithendra's CV"
+title: "CV"
 ---
 
 - Location: Bangalore, India
@@ -18,17 +18,27 @@ title: "Jithendra's CV"
 
 Jun 2021 - current: **Data Engineer, NeenOpal Inc.**
 
-- **Enterprise wide BI Implementation for a Large Multinational Logistics Company**: Setup of Data warehouse from scratch on AWS Redshift for **6 different business units** of the client. Configured ETL Pipelines for **Migration of data from 8 different sources** to Redshift using Python, Appflow, Glue & Lambda. Developed complex SQL queries to transform raw tables into insightful data for powering **50+ PowerBI dashboards**. Improved automation of ETL processes over millions of rows of data, **saving up to 30 hours per month**. Led many requirement-gathering meetings with the client's business and technical teams from various departments to better understand the data, and assisted them in developing 4 new logistic KPIs
+- **Enterprise wide BI Implementation for a Large Multinational Logistics Company**: 
+	- Setup of Data warehouse from scratch on AWS Redshift for **6 different business units** of the client. 
+	- Configured ETL Pipelines for **Migration of data from 8 different sources** to Redshift using Python, Appflow, Glue & Lambda. 
+	- Developed complex SQL queries to transform raw tables into insightful data for powering **50+ PowerBI dashboards**. 
+	- Improved automation of ETL processes over millions of rows of data, **saving up to 30 hours per month**. 
+	- Led many requirement-gathering meetings with the client's business and technical teams from various departments to better understand the data, and assisted them in developing 4 new logistic KPIs
 
 
-- **End-to-End Business Intelligence Implementation for an Edtech Company**: **Led a team of 2 Data Engineers** for the development of ETL jobs for migration of 500 GB of data per month from Aurora PostgreSQL to Redshift using AWS Glue. Implemented ETL job failure triggers with EventBridge, SNS, and Lambda, which boosted the monitoring process.  Responsible for continuous QC and Performance Monitoring of the ETL jobs and timely resolution in case of any errors
+- **End-to-End Business Intelligence Implementation for an Edtech Company**: 
+	- **Led a team of 2 Data Engineers** for the development of ETL jobs for migration of 500 GB of data per month from Aurora PostgreSQL to Redshift using AWS Glue. 
+	- Implemented ETL job failure triggers with EventBridge, SNS, and Lambda, which boosted the monitoring process.  
+	- Responsible for continuous QC and Performance Monitoring of the ETL jobs and timely resolution in case of any errors
 
-- **Marketing and Recovery Officer scoring project for a leading NBFC client**: Built 2 Tableau dashboards with scores and other details to streamline the ranking process for officers
+- **Marketing and Recovery Officer scoring project for a leading NBFC client**: 
+	- Built 2 Tableau dashboards with scores and other details to streamline the ranking process for officers
 
 
 Nov. 2020 - May 2021: **Data Scientist Intern, NeenOpal Inc.**
 
-- **Demand Forecasting and Inventory management for a Tiles Manufacturing Company**: Only Data Scientist for the project - responsible for developing a hybrid forecasting model in order to predict the sales with 82% accuracy  at the SKU-Store level for 400+ stores and 1000+ SKUs of one of the largest Tiles producers.
+- **Demand Forecasting and Inventory management for a Tiles Manufacturing Company**: 
+	- Only Data Scientist for the project - responsible for developing a hybrid forecasting model in order to predict the sales with 82% accuracy  at the SKU-Store level for 400+ stores and 1000+ SKUs of one of the largest Tiles producers.
 
 
 
