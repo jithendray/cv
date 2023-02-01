@@ -1,6 +1,6 @@
 ### About
 
-👋 Hi, I'm Jithendra, and welcome to my site.
+👋 Hey, I'm Jithendra.
 
 
 👨‍💻 Currently, I'm  working as a **Data Engineer** at **NeenOpal Inc.**, where we create cloud-based data warehousing and business intelligence solutions for global clients operating in a variety of sectors.
