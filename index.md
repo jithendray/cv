@@ -30,8 +30,8 @@ I spend a lot of my free time listening to metal music. I also have a second blo
 
 **I love meeting new people. Feel free to contact me through:**
 
+- Email - [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
 - Twitter - [twitter.com/doomedripper](https://twitter.com/doomedripper)
 - LinkedIn - [linkedin.com/jithendray](https://www.linkedin.com/in/jithendray/)
-- Email - [jithendra.yenugula@gmail.com](mailto:jithendra.yenugula@gmail.com)
 - Github - [github.com/jithendray](https://github.com/jithendray)
 - Discord - doomedripper#7018
