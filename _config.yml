@@ -1,43 +1,57 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+# SITE CONFIGURATION
+baseurl: "/blog"
+url: "https://jithendra.github.io"
 
-title: Jithendra's Blog
-description: I document my learnings in software and data engineering on this blog.
-github_username: jithendray
+# THEME-SPECIFIC CONFIGURATION
+title: Jithendra's blog                                  # site's title
+description: "software and data engineering learnings"      # used by search engines
+avatar:                        # Empty for no avatar in navbar
+favicon:                            # Icon displayed in the tab
 
-# Email and twitter are optional:
-email: jithendra.yenugula@gmail.com
-twitter_username: doomedripper
+# Header and footer text
+header_text: Welcome  # Change Blog header text
+header_feature_image: 
+header_feature_image_responsive: true
+footer_text: >
+  I document my learnings in software and data engineering on this blog.
 
-# Set this to true to get LaTeX math equation support
-use_math: true
+# Blog
+excerpt: truncate                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image:                     # A bit transparent for color posts.
 
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics: G-0TZP41G98T
+# Features
+# More in the _data folder for share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: true                                             # Enable if using math markup
+mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
+google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
+cookie_consent: false                                   # To respect the usage of cookies
+color_theme: auto                                       # auto, dark or light
 
-# Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
+# Comments
+comments:
+  disqus_shortname:                                     # Your discus shortname for comments
+  cusdis_app_id:                                        # Your cusdis data-app-id
+  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
+    repo:                                               # your public comments repository (e.g. owner/repo)
+    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
 
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+sass:
+  style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
