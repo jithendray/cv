@@ -44,13 +44,13 @@ Favorite Painting:
 
 - "Medusa" by Caravaggio
 
-  <img src="/images/medusa-painting.jpg" width="400" height="410" alt="fallen-angel"/>
+  <img src="https://raw.githubusercontent.com/jithendray/blog/master/images/medusa-painting.jpg" width="400" height="410" alt="fallen-angel"/>
 
 
 - "The Fallen Angel" by Alexandre Cabanel
 
 
-  <img src="/images/fallen-angel.jpg" width="400" height="310" alt="fallen-angel"/>
+  <img src="https://raw.githubusercontent.com/jithendray/blog/master/images/fallen-angel.jpg" width="400" height="310" alt="fallen-angel"/>
 
   
 Favorite movies:
