@@ -3,7 +3,7 @@ baseurl: "/blog"
 url: "https://jithendra.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Jithendra's blog                                  # site's title
+title: Jithendra's Blog                                  # site's title
 description: "software and data engineering learnings"      # used by search engines
 avatar:                        # Empty for no avatar in navbar
 favicon:                            # Icon displayed in the tab
