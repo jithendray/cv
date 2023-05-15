@@ -20,8 +20,9 @@ data engineer bridging the gap between software engineering and data analytics
 
 ## Currently
 
-I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions.
+I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my problem-solving ability to build scalable data solutions.
 
+<!--
 ## Experienced in
 > Data engineering, Python, data architecture design - developing automated and scalable data pipelines for migrating huge volumes of data.
 
@@ -34,42 +35,7 @@ I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging t
 > Development of python scripts, pyspark Jobs, SQL queries for automation of various tasks
 
 > Machine learning, univariate and multivariate time series forecasting, Deep learning 
-
-
-## Employment
-
-`2021-` 
-__NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect). 
-> My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
-
-> Some key projects include Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental household prices for UK-base _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_
-
-<!-- 1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_
-
-> Designed data model and setup of data warehouse on AWS Redshift from scratch. Configured ETL Pipelines for Migration of data from several sources (like SAP, 3rd party data sources via APIs, manual excel files, etc.) using Glue, Lambda, S3 and Appflow. Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
-
-2) ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_
-
-> Led a team of 2 Data Engineers for development of ETL jobs for transactional migration of data from AWS Aurora to Redshift using Glue. Responsible for continuous QC and Performance Monitoring of the Daily ETL Scripts and timely resolution in case of any errors.
-
-3) BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_
-
-> Created backend data models and views in Azure SQL database to transform raw Salesforce data into insightful data for powering 8 different dashboards consisting of 30+ KPIs.
-
-4) Database and Query Optimization
-
-> Optimized the performance of RDS MySQL database by implementing strategic enhancements, including the development of a robust reporting layer and the implementation of indexes and partitions to optimize table structures. The outcome of these enhancements was a significant reduction in query execution time, resulting in fast refresh rates for the website's dashboards. -->
-
-
-
-`2020-21` 
-__NeenOpal, Inc.__ Data Scientist Intern.
-> I assisted a Senior Data Scientist in developing a hybrid forecasting model leveraging ML algorithms and statistical models in order to predict the sales of one of the largest Tiles producers in Sri Lanka. Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns and used Tableau for presenting interesting insights to the stakeholders.
-
-
-`2019` 
-__HCI Labs, IIIT Allahabad__ Research Intern.
-> I performed Literature survey on early detection of Autism in toddlers under guidance of _Prof. Anupam Agarwal_. Worked on Autism Detection application using Image Processing and Machine Learning techniques. I also worked on POCs on various new domains of machine learning like Transfer Learning
+-->
 
 ## Technical skills
 
@@ -85,6 +51,43 @@ __HCI Labs, IIIT Allahabad__ Research Intern.
 * Time Series Forecasting
 * Git and GitHub
 * Bash
+
+## Employment
+
+`2021-` 
+__NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect). 
+> My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
+
+> Some key projects include 
+
+<!-- Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental household prices for UK-base _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_ -->
+
+1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_
+
+> Designed data model and setup of data warehouse on AWS Redshift from scratch. Configured ETL Pipelines for Migration of data from several sources (like SAP, 3rd party data sources via APIs, manual excel files, etc.) using Glue, Lambda, S3 and Appflow. Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
+
+2) ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_
+
+> Led a team of 2 Data Engineers for development of ETL jobs for transactional migration of data from AWS Aurora to Redshift using Glue. Responsible for continuous QC and Performance Monitoring of the Daily ETL Scripts and timely resolution in case of any errors.
+
+3) BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_
+
+> Created backend data models and views in Azure SQL database to transform raw Salesforce data into insightful data for powering 8 different dashboards consisting of 30+ KPIs.
+
+4) Database and Query Optimization
+
+> Optimized the performance of RDS MySQL database by implementing strategic enhancements, including the development of a robust reporting layer and the implementation of indexes and partitions to optimize table structures. The outcome of these enhancements was a significant reduction in query execution time, resulting in fast refresh rates for the website's dashboards.
+
+
+
+`2020-21` 
+__NeenOpal, Inc.__ Data Scientist Intern.
+> I assisted a Senior Data Scientist in developing a hybrid forecasting model leveraging ML algorithms and statistical models in order to predict the sales of one of the largest Tiles producers in Sri Lanka. Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns and used Tableau for presenting interesting insights to the stakeholders.
+
+
+`2019` 
+__HCI Labs, IIIT Allahabad__ Research Intern.
+> I performed Literature survey on early detection of Autism in toddlers under guidance of _Prof. Anupam Agarwal_. Worked on Autism Detection application using Image Processing and Machine Learning techniques. I also worked on POCs on various new domains of machine learning like Transfer Learning.
 
 
 ## Education
