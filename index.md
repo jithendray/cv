@@ -20,19 +20,19 @@ Data Engineer
 
 ## Currently
 
-I'm a Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/). Here I work on building cloud-based ETL and data warehousing solutions for global clients across diverse sectors. I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions. I have worked with clients in a variety of sectors, including logistics, ed-tech, and NBFC, and I have provided solutions that are specifically suited to their needs.
+I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions. I have worked with clients in a variety of sectors, including logistics, ed-tech, and NBFC, and I have provided solutions that are specifically suited to their needs.
 
 ## Employment
 
-`2020-` 
+`2021-` 
 __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect). 
 > My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
 
-> Some key projects include Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational Logistics company, Sales and Rental price forecasting for a UK-based real-estate firm, ETL+ BI Implementation (AWS + Tableau) for an Edtech Company, BI Implementation (Azure + PowerBI) for a leading provider of employee scheduling software, Database and Query Optimization.
+> Some key projects include Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental price forecasting for a UK-based _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_, Database and Query Optimization.
 
-`2015-20` 
-__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+`2020-21` 
+__NeenOpal, Inc.__ Data Scientist Intern.
+> I assisted a Senior Data Scientist in developing a hybrid forecasting model leveraging ML algorithms and statistical models in order to predict the sales of one of the largest Tiles producers in Sri Lanka. Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns and used Tableau for presenting interesting insights to the stakeholders.
 
 ## Technical skills
 
