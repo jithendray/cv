@@ -25,8 +25,10 @@ I'm a Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/). Here I work o
 ## Employment
 
 `2020-` 
-__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
-> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+__NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect). 
+> My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
+
+> Some key projects include Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational Logistics company, Sales and Rental price forecasting for a UK-based real-estate firm, ETL+ BI Implementation (AWS + Tableau) for an Edtech Company, BI Implementation (Azure + PowerBI) for a leading provider of employee scheduling software, Database and Query Optimization.
 
 `2015-20` 
 __Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
