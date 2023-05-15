@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jithendra Yenugula's CV
+title: Jithendra's CV
 ---
 # Jithendra Yenugula
 data engineer bridging the gap between software engineering and data analytics
