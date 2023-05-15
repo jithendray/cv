@@ -7,7 +7,7 @@ Data Engineer & Scientist
 <div id="webaddress">
 <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
 |
-<i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.iov</a>
+<i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.io</a>
 |
 <i class="fa fa-github"></i> <a href="https://github.com/jithendray">jithendray</a>
 |
