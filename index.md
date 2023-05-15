@@ -30,6 +30,9 @@ __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect).
 
 > Some key projects include Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental price forecasting for a UK-based _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_, Database and Query Optimization.
 
+1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_:
+> My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
+
 `2020-21` 
 __NeenOpal, Inc.__ Data Scientist Intern.
 > I assisted a Senior Data Scientist in developing a hybrid forecasting model leveraging ML algorithms and statistical models in order to predict the sales of one of the largest Tiles producers in Sri Lanka. Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns and used Tableau for presenting interesting insights to the stakeholders.
