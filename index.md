@@ -8,7 +8,7 @@ Data Engineer
 <div id="webaddress">
 <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://jithendray.github.io/">jithendray.github.iov</a>
+<i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.iov</a>
 |
 <i class="fa fa-github"></i> <a href="https://github.com/jithendray">jithendray</a>
 |
@@ -20,7 +20,7 @@ Data Engineer
 
 ## Currently
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+I'm a Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/). Here I work on building cloud-based ETL and data warehousing solutions for global clients across diverse sectors. I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions. I have worked with clients in a variety of sectors, including logistics, ed-tech, and NBFC, and I have provided solutions that are specifically suited to their needs.
 
 ## Employment
 
