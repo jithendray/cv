@@ -3,8 +3,7 @@ layout: cv
 title: Jithendra's CV
 ---
 # Jithendra Yenugula
-data engineer bridging the gap between software engineering and data analytics
-
+Data Engineer & Scientist
 <div id="webaddress">
 <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
 |
@@ -37,31 +36,15 @@ I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging t
 > Machine learning, univariate and multivariate time series forecasting, Deep learning 
 -->
 
-## Technical skills
-
-* Python
-* SQL
-* PySpark and SparkSQL
-* Scala    
-* AWS
-* Azure
-* Airflow
-* Docker
-* Machine Learning
-* Time Series Forecasting
-* Git and GitHub
-* Bash
-
 ## Employment
 
 `2021-` 
 __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect). 
 > My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
 
-> Some key projects include 
+> Some key projects include - Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental household prices for UK-base _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_
 
-<!-- Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental household prices for UK-base _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_ -->
-
+<!--
 1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_
 
 > Designed data model and setup of data warehouse on AWS Redshift from scratch. Configured ETL Pipelines for Migration of data from several sources (like SAP, 3rd party data sources via APIs, manual excel files, etc.) using Glue, Lambda, S3 and Appflow. Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
@@ -77,7 +60,7 @@ __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect).
 4) Database and Query Optimization
 
 > Optimized the performance of RDS MySQL database by implementing strategic enhancements, including the development of a robust reporting layer and the implementation of indexes and partitions to optimize table structures. The outcome of these enhancements was a significant reduction in query execution time, resulting in fast refresh rates for the website's dashboards.
-
+-->
 
 
 `2020-21` 
@@ -88,6 +71,21 @@ __NeenOpal, Inc.__ Data Scientist Intern.
 `2019` 
 __HCI Labs, IIIT Allahabad__ Research Intern.
 > I performed Literature survey on early detection of Autism in toddlers under guidance of _Prof. Anupam Agarwal_. Worked on Autism Detection application using Image Processing and Machine Learning techniques. I also worked on POCs on various new domains of machine learning like Transfer Learning.
+
+## Technical skills
+
+* Python
+* SQL
+* PySpark and SparkSQL
+* Scala    
+* AWS
+* Azure
+* Airflow
+* Docker
+* Machine Learning
+* Time Series Forecasting
+* Git and GitHub
+* Bash
 
 
 ## Education
