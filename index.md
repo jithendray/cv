@@ -1,16 +1,20 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Jithendra Yenugula's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and Solutions Architect
+# Jithendra Yenugula
+Data Engineer
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-linkedin"></i> <a href="https://jithendray.github.io/">jithendray.github.iov</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-github"></i> <a href="https://github.com/jithendray">jithendray</a>
+|
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/doomedripper">doomedripper</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/jithendray/">jithendray</a>
 </div>
 
 
