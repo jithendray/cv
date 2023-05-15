@@ -3,7 +3,7 @@ layout: cv
 title: Jithendra Yenugula's CV
 ---
 # Jithendra Yenugula
-Senior data engineer bridging the gap between software engineering and data analytics
+data engineer bridging the gap between software engineering and data analytics
 
 <!-- <div id="webaddress">
 <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
@@ -33,7 +33,7 @@ Senior data engineer bridging the gap between software engineering and data anal
 I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions.  -->
 
 ## Experienced in
-> Data engineering, Python, data architecture design - developing automated and scalable data pipelines for migrating huge volumes of data across different sources.
+> Data engineering, Python, data architecture design - developing automated and scalable data pipelines for migrating huge volumes of data.
 
 > Leading data engineering projects, managing multiple clients across different sectors, participating in client calls, engaging in discussions about key performance indicators (KPIs) and architecture design.
 
@@ -44,21 +44,6 @@ I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging t
 > Development of python scripts, pyspark Jobs, SQL queries for automation of various tasks
 
 > Machine learning, univariate and multivariate time series forecasting, Deep learning 
-
-## Technical skills
-
-* Python
-* SQL
-* PySpark and SparkSQL
-* Scala    
-* AWS
-* Azure
-* Airflow
-* Docker
-* Machine Learning
-* Time Series Forecasting
-* Git and GitHub
-* Bash
 
 
 ## Employment
@@ -95,6 +80,21 @@ __NeenOpal, Inc.__ Data Scientist Intern.
 `2019` 
 __HCI Labs, IIIT Allahabad__ Research Intern.
 > I performed Literature survey on early detection of Autism in toddlers under guidance of _Prof. Anupam Agarwal_. Worked on Autism Detection application using Image Processing and Machine Learning techniques. I also worked on POCs on various new domains of machine learning like Transfer Learning
+
+## Technical skills
+
+* Python
+* SQL
+* PySpark and SparkSQL
+* Scala    
+* AWS
+* Azure
+* Airflow
+* Docker
+* Machine Learning
+* Time Series Forecasting
+* Git and GitHub
+* Bash
 
 
 ## Education
