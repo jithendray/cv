@@ -5,7 +5,7 @@ title: Jithendra's CV
 # Jithendra Yenugula
 data engineer bridging the gap between software engineering and data analytics
 
-<!-- <div id="webaddress">
+<div id="webaddress">
 <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
 |
 <i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.iov</a>
@@ -15,22 +15,12 @@ data engineer bridging the gap between software engineering and data analytics
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/doomedripper">doomedripper</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/jithendray/">jithendray</a>
-</div> -->
-
-## Links
-
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.io</a>
-* <i class="fa fa-envelope"></i> <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/jithendray">jithendray</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/doomedripper">doomedripper</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/jithendray/">jithendray</a>
-* <i class="fa fa-reddit"><a href="https://www.reddit.com/user/saiyan6174/">saiyan6174</a>
+</div>
 
 
-<!-- ## Currently
+## Currently
 
-I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions.  -->
+I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions.
 
 ## Experienced in
 > Data engineering, Python, data architecture design - developing automated and scalable data pipelines for migrating huge volumes of data.
@@ -52,9 +42,9 @@ I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging t
 __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect). 
 > My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
 
-> Some key projects include:
+> Some key projects include Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_, Sales and Rental household prices for UK-base _real-estate firm_, ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_, BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_
 
-1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_
+<!-- 1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_
 
 > Designed data model and setup of data warehouse on AWS Redshift from scratch. Configured ETL Pipelines for Migration of data from several sources (like SAP, 3rd party data sources via APIs, manual excel files, etc.) using Glue, Lambda, S3 and Appflow. Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
 
@@ -68,7 +58,7 @@ __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect).
 
 4) Database and Query Optimization
 
-> Optimized the performance of RDS MySQL database by implementing strategic enhancements, including the development of a robust reporting layer and the implementation of indexes and partitions to optimize table structures. The outcome of these enhancements was a significant reduction in query execution time, resulting in fast refresh rates for the website's dashboards.
+> Optimized the performance of RDS MySQL database by implementing strategic enhancements, including the development of a robust reporting layer and the implementation of indexes and partitions to optimize table structures. The outcome of these enhancements was a significant reduction in query execution time, resulting in fast refresh rates for the website's dashboards. -->
 
 
 
@@ -145,6 +135,16 @@ I write a data engineering blog at [jithendray.github.io](https://jithendray.git
 Employee of the quarter @ NeenOpal (Issued for the Quarter April - June 2022)
 
 MCM merit cum means based scholarship (BTech fees + stipend)
+
+## Links
+
+<!-- fa are fontawesome, ai are academicons -->
+* <i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.io</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/jithendray">jithendray</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/doomedripper">doomedripper</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/jithendray/">jithendray</a>
+* <i class="fa fa-reddit"><a href="https://www.reddit.com/user/saiyan6174/">saiyan6174</a>
 
 
 ### last updated
