@@ -22,6 +22,22 @@ Data Engineer
 
 I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions. I have worked with clients in a variety of sectors, including logistics, ed-tech, and NBFC, and I have provided solutions that are specifically suited to their needs.
 
+## Technical skills
+
+* Python
+* SQL
+* PySpark and SparkSQL
+* Scala    
+* AWS
+* Azure
+* Airflow
+* Docker
+* Machine Learning
+* Time Series Forecasting
+* Git and GitHub
+* Bash
+
+
 ## Employment
 
 `2021-` 
@@ -52,125 +68,68 @@ __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect).
 __NeenOpal, Inc.__ Data Scientist Intern.
 > I assisted a Senior Data Scientist in developing a hybrid forecasting model leveraging ML algorithms and statistical models in order to predict the sales of one of the largest Tiles producers in Sri Lanka. Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns and used Tableau for presenting interesting insights to the stakeholders.
 
-## Technical skills
 
-* Python
-* SQL
-* PySpark and SparkSQL
-* Scala    
-* AWS
-* Azure
-* Airflow
-* Docker
-* Machine Learning
-* Time Series Forecasting
-* Git and GitHub
-* Bash
+`2019` 
+__HCI Labs, IIIT Allahabad__ Research Intern.
+> I performed Literature survey on early detection of Autism in toddlers under guidance of _Prof. Anupam Agarwal_. Worked on Autism Detection application using Image Processing and Machine Learning techniques. I also worked on POCs on various new domains of machine learning like Transfer Learning
+
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`2017-21`
+__Indian Institute of Information Technology, Jabalpur__ Bachelors in Computer Science
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+## Certifications
 
-### Certifications
-
-`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
+`2022-23` __Microsoft Certified: Azure Data Engineer Associate__
 
 ## Areas of expertise
 
-* Bioinformatics
-* Software development
-* Cloud engineering and automation
-* Single-page applications
-* Population genomics
+* Data engineering
+* Time series analysis & forecasting
+* Cloud engineering & automation
 * Machine learning
-* Data visualisation
-* Variant calling
-* Illumina sequencing data
+* Data science
+* Backend engineering
 
-## Publications
-
-### Journal articles
-`2019`
-Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
-
-`2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6:e28590.
-
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
-
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-Welch L, Brooksbank C, Schwartz R, Morgan SL, Gaeta B, Kilpatrick AM, Meitchen D, __Moore BL__ _et al._ Applying, Evaluating and Refining Bioinformatics Core Competencies. _PLoS Compututational Biology_, 12(5): e1004943.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-### Book chapters
-
-`2017`
-__Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
 ## Projects
 
-### github
+__Github__
+> My [personal github account](https://github.com/jithendray) hosts my hobby development projects as well as my notes while learning various technologies.
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+__FPGA Neural Network Accelerator__ ([github](https://github.com/tirumalnaidu/opencl-hls-cnn-accelerator))
+> A Neural Network Accelerator for Darknet Reference Model for image classification on Imagenet Dataset on Intel Cyclone V Soc FPGA which achieved around 300% faster inference speed than CPU, when connected to ARM Cortex A9 processor.
+
+__Fraud Detection service__([github](https://github.com/jithendray/aws-SageMaker-fraud-detection))
+> Credit card fraud detection with AWS Sage maker and deployed on AWS Cloud9.
+
+__Forecasting Air pollution__ ([github](https://github.com/jithendray/forecasting-air-pollution))
+> Explored various models for forecasting time series and compared the performance of the models over two different metrics.
+
+__Heartbeat anomaly detection__ ([nbviewer](https://nbviewer.org/github/jithendray/mini-projects/blob/main/heart-ECG-anomaly-detection/AutoEncoder_AnomalyDetection.ipynb))
+> Detected anomalies in 5000 time series sequences with 140 timestamps obtained with ECG and corresponds to heartbeats from a single patient using LSTM Auto-encoder.
+
+__When Music meets Data Science__ ([github](https://github.com/jithendray/mini--projects/tree/main/when-music-meets-datascience))
+> What's common between top songs on Spotify from 2010-19; Analyzed my personal Spotify streaming history; Analyzed music discographies of 2 of my favorite artists; etc.
+
+__Buy or Sell Stocks?__ ([nbviewer](https://nbviewer.org/github/jithendray/mini-projects/blob/main/buy-or-sell-stocks/MARUTI_DMAC.ipynb))
+> Predicted when to buy or sell stocks using simple dual moving average crossover strategy. And then backtested it over 5 years of stock.
+
+__Stock Market Analysis and Forecasting__ ([github](https://github.com/jithendray/mini--projects/tree/main/forecasting-Stocks))
+> Explored forecasting models based on Long Short Term Memory(LSTM) and Facebook's Prophet in order to predict the future prices.
+
 
 ### blog
 
 I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
 
-### EdinbR
-
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
-
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+Employee of the quarter @ NeenOpal (Issued for the Quarter April - June 2022)
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+MCM merit cum means based scholarship (BTech fees + stipend)
 
 
 ## Links
@@ -186,9 +145,6 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
 * <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
 
-## References
-
-Available on request.
 
 <!-- ### Footer
 
