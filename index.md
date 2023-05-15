@@ -29,13 +29,21 @@ __NeenOpal, Inc.__ Data Engineer (data scientist and solutions architect).
 > My work includes developing cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors. I'm an active participant in client calls, engaging in discussions about key performance indicators (KPIs) and architecture. I also work on time series forecasting problems at scale.
 
 > Some key projects include:
+
 1) Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational _Logistics company_
+
 > Designed data model and setup of data warehouse on AWS Redshift from scratch. Configured ETL Pipelines for Migration of data from several sources (like SAP, 3rd party data sources via APIs, manual excel files, etc.) using Glue, Lambda, S3 and Appflow. Developed complex SQL queries to transform raw tables into insightful data for powering PowerBI dashboards.
+
 2) ETL+ BI Implementation (AWS + Tableau) for an _Edtech Company_
+
 > Led a team of 2 Data Engineers for development of ETL jobs for transactional migration of data from AWS Aurora to Redshift using Glue. Responsible for continuous QC and Performance Monitoring of the Daily ETL Scripts and timely resolution in case of any errors.
+
 3) BI Implementation (Azure + PowerBI) for a leading provider of _employee scheduling software_
+
 > Created backend data models and views in Azure SQL database to transform raw Salesforce data into insightful data for powering 8 different dashboards consisting of 30+ KPIs.
+
 4) Database and Query Optimization
+
 > Optimized the performance of RDS MySQL database by implementing strategic enhancements, including the development of a robust reporting layer and the implementation of indexes and partitions to optimize table structures. The outcome of these enhancements was a significant reduction in query execution time, resulting in fast refresh rates for the website's dashboards.
 
 
@@ -47,17 +55,17 @@ __NeenOpal, Inc.__ Data Scientist Intern.
 ## Technical skills
 
 * Python
-* Javascript (incl. Typescript, React)
-* R
-* Go
+* SQL
+* PySpark and SparkSQL
+* Scala    
 * AWS
-* UNIX
-* Cluster computing
+* Azure
+* Airflow
 * Docker
+* Machine Learning
+* Time Series Forecasting
 * Git and GitHub
-* HTML and CSS
 * Bash
-* Agile development
 
 ## Education
 
