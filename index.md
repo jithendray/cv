@@ -3,7 +3,7 @@ layout: cv
 title: Jithendra Yenugula's CV
 ---
 # Jithendra Yenugula
-Data Engineer
+Senior data engineer bridging the gap between software engineering and data analytics
 
 <!-- <div id="webaddress">
 <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a>
@@ -20,7 +20,7 @@ Data Engineer
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.iov</a>
+* <i class="fa fa-globe"></i> <a href="https://jithendray.github.io/">jithendray.github.io</a>
 * <i class="fa fa-envelope"></i> <a href="mailto:jithendra.yenugula@gmail.com">jithendra.yenugula@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/jithendray">jithendray</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/doomedripper">doomedripper</a><br />
@@ -28,9 +28,22 @@ Data Engineer
 * <i class="fa fa-reddit"><a href="https://www.reddit.com/user/saiyan6174/">saiyan6174</a>
 
 
-## Currently
+<!-- ## Currently
 
-I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions. I have worked with clients in a variety of sectors, including logistics, ed-tech, and NBFC, and I have provided solutions that are specifically suited to their needs.
+I'm a Data Engineer at [NeenOpal](https://www.neenopal.com/). I enjoy bridging the gap between software engineering and data analytics — combining my technical skills with my sharp problem-solving ability to build scalable data solutions.  -->
+
+## Experienced in
+> Data engineering, Python, data architecture design - developing automated and scalable data pipelines for migrating huge volumes of data across different sources.
+
+> Leading data engineering projects, managing multiple clients across different sectors, participating in client calls, engaging in discussions about key performance indicators (KPIs) and architecture design.
+
+> Working with clients in a variety of sectors, including logistics, real-estate, ed-tech, and NBFC, and have provided solutions that are specifically suited to their needs.
+
+> Optimization of large scale database performance and SQL queries
+
+> Development of python scripts, pyspark Jobs, SQL queries for automation of various tasks
+
+> Machine learning, univariate and multivariate time series forecasting, Deep learning 
 
 ## Technical skills
 
@@ -94,7 +107,7 @@ __Indian Institute of Information Technology, Jabalpur__ Bachelors in Computer S
 
 `2022-23` __Microsoft Certified: Azure Data Engineer Associate__ ([view credential](https://www.credly.com/badges/8550413d-e631-4a08-98df-e6f17db92bd8/public_url))
 
-## Areas of expertise
+## Interests
 
 * Data engineering
 * Time series analysis & forecasting
@@ -134,6 +147,6 @@ Employee of the quarter @ NeenOpal (Issued for the Quarter April - June 2022)
 MCM merit cum means based scholarship (BTech fees + stipend)
 
 
-## Footer
+### last updated
 
-Last updated: May 2023
+May 2023
