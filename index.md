@@ -96,7 +96,9 @@ __Indian Institute of Information Technology, Jabalpur__ Bachelors in Computer S
 
 ## Certifications
 
-`2022-23` __Microsoft Certified: Azure Data Engineer Associate__ ([view credential](https://www.credly.com/badges/8550413d-e631-4a08-98df-e6f17db92bd8/public_url))
+`2023-26` __AWS Certified Solutions Architect - Associate__ ([view credential](https://www.credly.com/earner/earned/badge/bf5984b6-42e2-4206-9cf4-d1c0e496b552))
+
+`2022-24` __Microsoft Certified: Azure Data Engineer Associate__ ([view credential](https://www.credly.com/badges/8550413d-e631-4a08-98df-e6f17db92bd8/public_url))
 
 ## Interests
 
